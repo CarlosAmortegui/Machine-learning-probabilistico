@@ -7,6 +7,8 @@ Este repositorio contiene el material del curso **Machine Learning Probabilísti
 ## 🧭 Estructura General del Repositorio
 
 EDA/
+
+
 ├── Input/ → Datos crudos usados en los notebooks
 ├── Output/ → Resultados generados (gráficos, tablas, archivos intermedios)
 ├── SCR/ → Notebooks organizados por tipo de análisis
